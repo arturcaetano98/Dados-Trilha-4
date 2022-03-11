@@ -1,11 +1,4 @@
-Downloaded from wid.world on 11-03-2022 at 22:50:58
-Percentile;Year;"anninc_992_i_US
-National income
-Total population | average income or wealth | adults | individual | Euro € | ppp | constant (2021)
-USA";"agdpro_992_i_US
-Gross domestic product
-Total population | average income or wealth | adults | individual | Euro € | ppp | constant (2021)
-USA"
+Percentile;Year;GDP;National_Income
 pall;1950;15611.4378;
 pall;1951;16739.8406;
 pall;1952;17199.9906;
