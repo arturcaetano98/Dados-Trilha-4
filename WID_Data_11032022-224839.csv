@@ -1,4 +1,4 @@
-Percentile;Year;GDP;National_Income
+Percentile,Year,GDP,National_Income
 pall;1950;4957.4908;5448.6193
 pall;1951;5054.7367;5561.3951
 pall;1952;5215.4469;5738.3077
